@@ -1,4 +1,4 @@
-COursera Data Science ToolBox
+Coursera Data Science ToolBox
 ========================================================
 
 ## This is a markdown file
